@@ -1,0 +1,20 @@
+line 192:
+
+     """if self.debug:
+		    print(reviewcount.text, wasprice, currentprice, saveprice)
+		return {'rating': reviewcount.text.replace(' ', ''), 'wasprice': wasprice, 'currentprice': currentprice, 'saveprice': saveprice, 'topreviews': topreviews}"""
+		
+line 131:
+			   """ if self.debug:
+			    	print(name.text, price.text, self.amazon_link + link)
+			except:
+				pass
+		return results"""
+
+line 95:
+
+			  """  if self.debug:
+			    	print(name.text, price.text, self.amazon_link + link)
+			except: 
+				pass
+		return results"""
