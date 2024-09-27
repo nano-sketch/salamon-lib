@@ -23,7 +23,7 @@ To run this project, you'll need the following:
 
    ```bash
    git clone https://github.com/nano-sketch/salamon-lib.git
-   cd salamon-lib
+   cd cash
 
 2. Install the required dependencies:
 
