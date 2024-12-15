@@ -41,6 +41,7 @@ To run this project, you'll need the following:
 Feel free to submit issues and pull requests to improve the project!
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details
+#### note: this repo may contain errors as it has not been updated for a while
 
 
