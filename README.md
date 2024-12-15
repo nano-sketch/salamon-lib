@@ -9,6 +9,9 @@ A Python script that scrapes product data from Amazon and sends notifications vi
 - Customizable product list for monitoring
 - Error handling and logging
 
+![Uploading image.png…]()
+
+
 ## Prerequisites
 
 To run this project, you'll need the following:
